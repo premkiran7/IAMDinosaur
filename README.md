@@ -13,7 +13,7 @@ jump cactus, using Neural Networks and a simple Genetic Algorithm.
 
 2. Clone/download this folder to your computer.
 
-3. run `npm install` within this folder
+3. run `npm install` within this folder. If facing problems run 'sudo apt-get install libxtst-dev'. 
 
 4. Open Chrome's dinosaur game and put aside the terminal (It MUST be on the same screen)
    **(Tip: go to developer tools, and under network, set to offline )**
